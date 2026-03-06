@@ -1,102 +1,85 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=220&section=header&text=Dahye%20Lee&fontSize=42&fontAlignY=38&desc=AI%20Software%20Developer%20%7C%20NLP%20%7C%20Computer%20Vision&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Dahye%20Lee&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
-# Hi, I'm Dahye Lee 👋
-
-### AI Software Developer (Student)
-
-Interested in **Natural Language Processing** and **Computer Vision**  
-Goal: **International career and study in AI**
-
-<br>
-
-<a href="mailto:akuni090923@gmail.com">
-  <img src="https://img.shields.io/badge/Email-akuni090923%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/%EB%8B%A4%ED%98%9C-%EC%9D%B4-3a08643b5/">
-  <img src="https://img.shields.io/badge/LinkedIn-Dahye%20Lee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+AI Software Developer  
+Natural Language Processing · Computer Vision
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-- High school student learning **AI software development**
-- Interested in building systems with **NLP** and **Computer Vision**
-- Learning the foundations of **machine learning** and **deep learning**
-- Building my portfolio step by step for **global opportunities**
+AI software student focused on machine learning and deep learning systems.
 
----
+Interested in building practical AI applications using natural language processing and computer vision.  
+Currently developing foundational knowledge in machine learning, deep learning, and AI systems.
 
-## 🧠 Interests
-
-- Natural Language Processing
-- Computer Vision
-- Deep Learning
-- AI Applications
-- Generative AI
+Long-term goal: build advanced AI systems and work internationally as an AI engineer.
 
 ---
 
-## 🛠 Tech Stack
+## Areas of Interest
+
+Natural Language Processing  
+Computer Vision  
+Deep Learning  
+Generative AI  
+Machine Learning Systems
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi" />
-<br><br>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-
-</div>
-
----
-
-## 📚 Currently Exploring
-
-- Machine Learning fundamentals
-- Deep Learning with PyTorch
-- Transformer-based models
-- NLP applications
-- Computer Vision projects
-
----
-
-## 📌 Future Projects
-
-- Document Question Answering System
-- Object Detection Project
-- AI Chatbot
-- Image Classification Project
-- Recommendation System
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dahye-Lee&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dahye-Lee&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi&theme=light" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Dahye-Lee&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 
 </div>
 
 ---
 
-## 🌱 My Goal
+## Current Focus
 
-I want to build meaningful AI projects, document my learning process,  
-and grow into an AI engineer who can work internationally.
+Machine learning fundamentals  
+Deep learning with PyTorch  
+Transformer architectures  
+Applications of NLP and computer vision
 
 ---
 
-## 📫 Contact
+## Future Work
 
-- **Email**: akuni090923@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/%EB%8B%A4%ED%98%9C-%EC%9D%B4-3a08643b5/
+Document question answering system (RAG)  
+Object detection system  
+AI chatbot  
+Image classification model  
+Recommendation system
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Dahye-Lee&show_icons=true&hide_border=true&title_color=2C5364&icon_color=2C5364"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dahye-Lee&layout=compact&hide_border=true&title_color=2C5364"/>
+
+</div>
+
+---
+
+## Contact
+
+Email  
+akuni090923@gmail.com  
+
+LinkedIn  
+https://www.linkedin.com/in/%EB%8B%A4%ED%98%9C-%EC%9D%B4-3a08643b5/
