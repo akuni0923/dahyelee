@@ -68,9 +68,9 @@ Recommendation system
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Dahye-Lee&show_icons=true&hide_border=true&title_color=2C5364&icon_color=2C5364"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=akuni0923&show_icons=true&hide_border=true&title_color=2C5364&icon_color=2C5364"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dahye-Lee&layout=compact&hide_border=true&title_color=2C5364"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuni0923&layout=compact&hide_border=true&title_color=2C5364"/>
 
 </div>
 
